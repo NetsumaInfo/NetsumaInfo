@@ -1,0 +1,17 @@
+{
+  "type": "normal",
+  "fileName": "profile-netsuma.svg",
+  "backgroundColor": "#f0f6fc",
+  "foregroundColor": "#1f2328",
+  "strongColor": "#0969da",
+  "weakColor": "#656d76",
+  "radarColor": "#0969da",
+  "growingAnimation": true,
+  "contribColors": [
+    "#d0d7de",
+    "#b6e3ff",
+    "#54aeff",
+    "#0969da",
+    "#0a3069"
+  ]
+}
