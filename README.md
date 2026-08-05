@@ -1,10 +1,10 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0969DA,100:54AEFF&height=190&section=header&text=Netsuma&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Build%20useful%20things.%20Make%20them%20feel%20great.&descAlignY=59&descSize=16" alt="Netsuma" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0969DA,100:54AEFF&height=190&section=header&text=Netsuma&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Des%20outils%20simples%2C%20rapides%20et%20agr%C3%A9ables%20%C3%A0%20utiliser&descAlignY=59&descSize=16" alt="Netsuma" />
 </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=720&lines=Des+id%C3%A9es+aux+outils+concrets;Desktop+%E2%80%A2+Web+%E2%80%A2+Creative+workflows;Open+source%2C+utile%2C+soign%C3%A9" alt="Présentation animée" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=720&lines=Je+cr%C3%A9e+des+outils+simples+et+rapides;Bureau+%E2%80%A2+Web+%E2%80%A2+Vid%C3%A9o;Open+source%2C+soign%C3%A9%2C+utile+au+quotidien" alt="Présentation animée" />
   </a>
 </p>
 
@@ -14,14 +14,14 @@
   <a href="https://amverge.app/"><img src="https://shieldcn.dev/badge/AMVerge.svg?color=0969DA&logo=rust" alt="AMVerge" /></a>
 </p>
 
-## Projets choisis
+## Projets
 
 | Projet | Ce qu'il fait |
 | :-- | :-- |
-| **[AMVerge](https://github.com/AMVerge-team/AMVerge)** | Découpe rapide de scènes pour monteurs : import, détection, aperçu instantané et export. |
-| **[AMV Notation](https://github.com/NetsumaInfo/application-bareme-amv-france)** | Application Windows pour noter et agréger les résultats de concours AMV. |
+| **[AMVerge](https://github.com/AMVerge-team/AMVerge)** | Découpe une longue vidéo en scènes, avec aperçu immédiat et export à la carte. |
+| **[AMV Notation](https://github.com/NetsumaInfo/application-bareme-amv-france)** | Note et classe les participants d'un concours AMV. |
 | **[NetsuShelf](https://github.com/NetsumaInfo/NetsuShelf)** | Transforme des romans web en EPUB, HTML, PDF ou TXT. |
-| **[AMVerge-CLI](https://github.com/NetsumaInfo/AMVerge-CLI)** | Outil en ligne de commande et bibliothèque Python pour le traitement média. |
+| **[AMVerge-CLI](https://github.com/NetsumaInfo/AMVerge-CLI)** | La même découpe vidéo, en ligne de commande. |
 
 <div align="center">
 
