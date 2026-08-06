@@ -29,6 +29,25 @@
 
 </div>
 
+<div align="center">
+
+<img alt="Statistiques GitHub" height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NetsumaInfo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" />
+<img alt="Langages les plus utilisés" height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NetsumaInfo&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+
+</div>
+
+<div align="center">
+
+<img alt="Série de contributions" src="https://streak-stats.demolab.com/?user=NetsumaInfo&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=54AEFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
+
+</div>
+
+<div align="center">
+
+<img alt="Graphe d'activité" src="https://github-readme-activity-graph.vercel.app/graph?username=NetsumaInfo&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true" />
+
+</div>
+
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:54AEFF,60:0969DA,100:0D1117&height=105&section=footer" alt="" />
 </p>
