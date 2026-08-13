@@ -18,8 +18,8 @@
 
 | Projet | Ce qu'il fait |
 | :-- | :-- |
-| **[NetsuBoard](https://github.com/NetsumaInfo/NetsuBoard)** | Tableau de référence infini : images, vidéos, notes et dessin sur une même toile. |
-| **[NetsuRush](https://github.com/NetsumaInfo/NetsuRush)** | Trie et découpe les rushes, puis envoie la timeline dans DaVinci Resolve. |
+| **[NetsuRush](https://github.com/NetsumaInfo/NetsuRush)** | Visionne tes rushes, repère les plans, coupe sans réencoder et renvoie la timeline dans Resolve, Premiere ou After Effects. |
+| **[NetsuBoard](https://github.com/NetsumaInfo/NetsuBoard)** | Réunit images, vidéos, YouTube, notes et croquis sur une toile infinie, avec upscaling GPU des références. |
 | **[AMVerge](https://github.com/AMVerge-team/AMVerge)** | Découpe une longue vidéo en scènes, avec aperçu immédiat et export à la carte. |
 | **[AMV Notation](https://github.com/NetsumaInfo/application-bareme-amv-france)** | Note et classe les participants d'un concours AMV. |
 | **[NetsuShelf](https://github.com/NetsumaInfo/NetsuShelf)** | Transforme des romans web en EPUB, HTML, PDF ou TXT. |
