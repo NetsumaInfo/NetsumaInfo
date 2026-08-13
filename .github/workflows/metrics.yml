@@ -24,8 +24,10 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Paris
           extras_css: |
-            svg { color: #c9d1d9 }
+            svg { background: #0d1117; color: #c9d1d9 }
             h1, h2, h3, a { color: #58a6ff }
+            .field, .row, .contrib, small { color: #c9d1d9 }
+            .repository .description, .repository .infos, .cakeday { color: #8b949e }
 
       - name: Languages
         uses: lowlighter/metrics@latest
@@ -41,8 +43,10 @@ jobs:
           plugin_languages_threshold: 1%
           config_timezone: Europe/Paris
           extras_css: |
-            svg { color: #c9d1d9 }
+            svg { background: #0d1117; color: #c9d1d9 }
             h1, h2, h3, a { color: #58a6ff }
+            .field, .row, .contrib, small { color: #c9d1d9 }
+            .repository .description, .repository .infos, .cakeday { color: #8b949e }
 
       - name: Calendar
         uses: lowlighter/metrics@latest
@@ -56,5 +60,7 @@ jobs:
           plugin_isocalendar_duration: full-year
           config_timezone: Europe/Paris
           extras_css: |
-            svg { color: #c9d1d9 }
+            svg { background: #0d1117; color: #c9d1d9 }
             h1, h2, h3, a { color: #58a6ff }
+            .field, .row, .contrib, small { color: #c9d1d9 }
+            .repository .description, .repository .infos, .cakeday { color: #8b949e }
