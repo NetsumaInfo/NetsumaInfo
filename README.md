@@ -34,8 +34,6 @@
 
 <img alt="Statistiques GitHub" width="88%" src="./metrics/overview.svg" />
 
-<img alt="Langages les plus utilisés" width="88%" src="./metrics/languages.svg" />
-
 <img alt="Calendrier de commits" width="88%" src="./metrics/calendar.svg" />
 
 </div>
