@@ -21,13 +21,19 @@ jobs:
           user: ${{ github.repository_owner }}
           filename: metrics/overview.svg
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
+          config_display: large
           config_timezone: Europe/Paris
           extras_css: |
             svg { background: #0d1117; color: #c9d1d9 }
             h1, h2, h3, a { color: #58a6ff }
             .field, .row, .contrib, small { color: #c9d1d9 }
             .repository .description, .repository .infos, .cakeday { color: #8b949e }
+            [fill="#ebedf0"] { fill: #161b22 }
+            [fill="#9be9a8"] { fill: #0e4429 }
+            [fill="#40c463"] { fill: #006d32 }
+            [fill="#30a14e"] { fill: #26a641 }
+            [fill="#216e39"] { fill: #39d353 }
 
       - name: Languages
         uses: lowlighter/metrics@latest
@@ -40,13 +46,14 @@ jobs:
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
+          plugin_languages_details: percentage
           plugin_languages_threshold: 1%
+          config_display: large
           config_timezone: Europe/Paris
           extras_css: |
             svg { background: #0d1117; color: #c9d1d9 }
             h1, h2, h3, a { color: #58a6ff }
             .field, .row, .contrib, small { color: #c9d1d9 }
-            .repository .description, .repository .infos, .cakeday { color: #8b949e }
 
       - name: Calendar
         uses: lowlighter/metrics@latest
@@ -58,9 +65,14 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          config_display: large
           config_timezone: Europe/Paris
           extras_css: |
             svg { background: #0d1117; color: #c9d1d9 }
             h1, h2, h3, a { color: #58a6ff }
             .field, .row, .contrib, small { color: #c9d1d9 }
-            .repository .description, .repository .infos, .cakeday { color: #8b949e }
+            [fill="#ebedf0"] { fill: #161b22 }
+            [fill="#9be9a8"] { fill: #0e4429 }
+            [fill="#40c463"] { fill: #006d32 }
+            [fill="#30a14e"] { fill: #26a641 }
+            [fill="#216e39"] { fill: #39d353 }
