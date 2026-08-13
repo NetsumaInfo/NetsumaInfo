@@ -18,7 +18,7 @@
 
 | Projet | Ce qu'il fait |
 | :-- | :-- |
-| **[NetsuRush](https://github.com/NetsumaInfo/NetsuRush)** | Réunit dans une seule app tous les outils autour du montage : rushes, recherche, moodboard, notes, script, traitements IA, transcription et passerelles entre Resolve, Premiere et After Effects. |
+| **[NetsuRush](https://github.com/NetsumaInfo/NetsuRush)** | Hub de post-production complet : rushes, recherche, moodboard, notes, script, traitements IA et passerelles entre Resolve, Premiere et After Effects. |
 | **[NetsuBoard](https://github.com/NetsumaInfo/NetsuBoard)** | Rassemble images, GIF, vidéos et liens vidéo du web sur un moodboard infini, avec upscale intégré. |
 | **[AMVerge](https://github.com/AMVerge-team/AMVerge)** | Découpe une longue vidéo en scènes, avec aperçu immédiat et export à la carte. |
 | **[AMV Notation](https://github.com/NetsumaInfo/application-bareme-amv-france)** | Note et classe les participants d'un concours AMV. |
